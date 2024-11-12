@@ -1,6 +1,6 @@
 ## Detalhes de desenvolvimento:
 ### Desenvolvedor: Gustavo Lemos
-### Data 11/11/2024
+### Data: 11/11/2024
 
 Este teste foi desenvolvido utilizando a ferramenta Databricks comunidade com um cluster de spark de 15 gigas de ram e 2 cores.
 
